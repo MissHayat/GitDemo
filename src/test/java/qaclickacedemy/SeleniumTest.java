@@ -11,6 +11,8 @@ public class SeleniumTest {
 	public void BrowserAutomate()
 	{
 		System.out.println("BrowserAutomate");
+		
+		System.out.println("WebAutomate");
 	}
 	
 	@Test
