@@ -1,6 +1,6 @@
-package qaclickacedemy;
+package GitDemo.src.test.java.qaclickacedemy;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class RESTAPITest {
 	
@@ -34,6 +34,12 @@ public class RESTAPITest {
 	public void deletetwitterapi()
 	{
 		System.out.println("deletetwitter");
+	}
+	
+	@Test
+	public void deleteAPI()
+	{
+		System.out.println("deleteAPI");
 	}
 
 }
