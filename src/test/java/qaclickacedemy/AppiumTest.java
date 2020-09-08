@@ -1,4 +1,4 @@
-package GitDemo.src.test.java.qaclickacedemy;
+package qaclickacedemy;
 
 import org.testng.annotations.Test;
 
